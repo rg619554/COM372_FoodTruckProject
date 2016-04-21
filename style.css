@@ -1,16 +1,126 @@
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 #about{
-  padding-left: 200.5px;
+  float:left;
+  display: block;
+  text-align: left;
+  width: 400.3px;
+  padding-left: 21px;
+  font-size: 25px;
+
 }
 
+body{
+  background-image: "Drake.jpg";
+  background-color: #FFC0DF;
+  background-repeat: no-repeat;
+
+}
 #menu{
-  padding-left: 401px;
+  display: block;
+  float:left;
+  text-align: center;
+  width: 421.3px;
+  font-size: 25px;
 
 }
 
 #location{
-  padding-left: 601.5px;
+  display: block;
+  float:left;
+  text-align: right;
+  width: 400.3px;
+  font-size: 25px;
+
+}
+
+#Navbar{
+  width: 1264px;
+  display: block;
+  padding-bottom: 80px;
+  font-family: Helvetica;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 25px;
+  color: white;
+
+}
+
+#slogan{
+  text-align: center;
+  font-family: "Open Sans";
+  font-size: 30px;
+  color: white;
 }
 
 h1{
-  padding-left: 401px;
+  text-align: center;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 45px;
+  color: white;
+
+}
+
+h2{
+  font-family: Helvetica;
+  font-style: italic;
+  text-align: center;
+  color: white;
+
+}
+
+h3{
+  font-family: Helvetica;
+  font-style: italic;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+li{
+  display: block;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: "Open Sans";
+  color: white;
+}
+
+p{
+  display: inline-block;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-top: 50px;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 25px;
+  font-style: italic;
+  color: white;
+
+}
+
+a {
+
+  text-align: center;
+  font-family: Helvetica;
+  font-style: italic;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+}
+
+.index.html a {
+  font-size: 45px;
+}
+
+img{
+  width: 200px;
+  margin-right: 300px;
+  margin-left: 500px;
+  image-orientation: center;
+  border: solid;
+  border-width: medium;
+  border-color: white;
 }
