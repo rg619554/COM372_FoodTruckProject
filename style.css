@@ -124,3 +124,10 @@ img{
   border-width: medium;
   border-color: white;
 }
+
+#widget{
+  margin-left: 480px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+
+}
